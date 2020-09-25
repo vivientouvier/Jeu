@@ -1,4 +1,4 @@
-Voici un petit jeu créé en python à l'aide de pygame par Gauthier Verdoolaeghe et moi même Vivien Touvier.
+Here is a little game created in python using pygame by Gauthier Verdoolaeghe and myself Vivien Touvier
 
 ### Installation
 
@@ -34,6 +34,6 @@ MacOS
 python3 -m pip install -U pygame --user
 ```
 
-### Aperçu
+### Preview
 
 ![preview](images/preview.PNG "preview")
