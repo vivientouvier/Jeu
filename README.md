@@ -34,6 +34,12 @@ MacOS
 python3 -m pip install -U pygame --user
 ```
 
+### Play
+
+```
+py Jeu.py
+```
+
 ### Preview
 
 ![preview](images/preview.PNG "preview")
