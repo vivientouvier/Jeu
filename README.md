@@ -18,22 +18,6 @@ Move to the containing folder
 cd Jeu
 ```
 
-### Dependencies
-
-Install dependencies:
-
-Windows
-
-```
-py -m pip install -U pygame --user
-```
-
-MacOS
-
-```
-python3 -m pip install -U pygame --user
-```
-
 ### Play
 
 ```
